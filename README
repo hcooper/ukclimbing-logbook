@@ -1,0 +1,9 @@
+ukclimbing-logbook
+
+A script to get round the lack of an API on the UKClimbing
+logbook system. This uses a PHP class to parse the table
+by scrapping the public version of the user's logbook.
+
+
+ * embed.php -- a version suitable for embedding in pages
+ * tableExtractor.class.php -- the table-data extractor
